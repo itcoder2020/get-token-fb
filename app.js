@@ -37,6 +37,7 @@ async function getToken(cookie) {
         } else {
             console.log(error.message)
         }
+        return null
 
     }
 
