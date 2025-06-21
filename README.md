@@ -16,4 +16,5 @@
    npm install
 
 ### ✅ หากรับโทเค้นไม่ได้ไห้ยืนยันสิทธ์ผ่านลิ้ง
+ ```bash
 https://www.facebook.com/dialog/oauth?client_id=124024574287414&redirect_uri=https://www.instagram.com/accounts/signup/&&scope=email,publish_actions,manage_pages,pages_show_list,publish_pages,ads_management,business_management,public_profile&response_type=token
